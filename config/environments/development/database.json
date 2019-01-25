@@ -1,0 +1,19 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-bookshelf",
+      "settings": {
+        "client": "postgres",
+        "host": "127.0.0.1",
+        "srv": false,
+        "port": 5432,
+        "database": "lokker-backend",
+        "username": "conductor",
+        "password": "tuttut",
+        "ssl": false
+      },
+      "options": {}
+    }
+  }
+}
