@@ -1,0 +1,19 @@
+{
+  "name": "lokker-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanniTramonto/lokker-backend.git"
+  },
+  "author": "Johannes Abendroth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanniTramonto/lokker-backend/issues"
+  },
+  "homepage": "https://github.com/giovanniTramonto/lokker-backend#readme"
+}
