@@ -1,5 +1,7 @@
 .DS_Store
 
+plugins/documentation/public/index.html
+
 ### Node template
 # Logs
 logs
