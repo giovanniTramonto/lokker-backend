@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/certificates",
+      "handler": "Certificates.index",
+      "config": {
+        "description": "A list of certificates"
+      }
+    }
+  ]
+}
